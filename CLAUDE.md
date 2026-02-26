@@ -1,5 +1,7 @@
 # RU IFMA - Restaurante Universitario
 
+Base URL: https://ru-ifma-backend-production.up.railway.app
+
 ## Stack
 
 - **Backend:** Spring Boot 4.0.3, Java 21, PostgreSQL 17
